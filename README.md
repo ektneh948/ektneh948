@@ -1,6 +1,6 @@
 # 안녕하세요, 김다현입니다.
 
-## 📚 주요 프로젝트
+## 📂 주요 프로젝트
 
 ### 🧇 [WAFFLE-FI](https://github.com/ektneh948/waffle-fi)
 &ensp; *Reinforcement Learning + ROS2 기반 실내 Wi-Fi 커버리지 자동 분석 시스템*
