@@ -2,7 +2,7 @@
 
 ## 🚀 주요 프로젝트
 
-### 🧇 [WAFFLE-FI](https://github.com/USER/WAFFLE-FI)
+### 🧇 [WAFFLE-FI](https://github.com/ektneh948/waffle-fi)
 &ensp; *Reinforcement Learning + ROS2 기반 실내 Wi-Fi 커버리지 자동 분석 시스템*
 - **핵심 키워드:**  RSSI 히트맵 · ESP32 Wi-Fi 스캔 · ROS2 · TurtleBot3(Waffle) · Qt GUI · 자율 탐색 로봇
 - **핵심 기술:** 자율 주행 로봇이 수집한 Wi-Fi RSSI와 위치 정보를 ROS2 노드로 융합하고, Qt GUI에서 히트맵으로 시각화하는 시스템
