@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 김다현입니다.
 
-## 🚀 주요 프로젝트
+## 📝 주요 프로젝트
 
 ### 🧇 [WAFFLE-FI](https://github.com/ektneh948/waffle-fi)
 &ensp; *Reinforcement Learning + ROS2 기반 실내 Wi-Fi 커버리지 자동 분석 시스템*
@@ -29,13 +29,13 @@
 - **핵심 기술:** 센서 데이터를 수집하고 ESP8266 기반 TCP/IP 네트워크로 서버·다중 클라이언트와 연동하여 실시간 모니터링 및 원격 제어 구현
 ---
 
-### 👾 Pecman 게임(with STM32)
+### 👾 [Pecman 게임(with STM32)](https://github.com/ektneh948/stm32-minigame)
 
 - **핵심 키워드:** STM32F4, ADC + DMA, Joystick 입력, Timer Interrupt, I2C 16x2 LCD, CGRAM 커스텀 문자
 - **핵심 기술:**  ADC를 DMA로 연속 수집하여 입력 처리, 타이머 인터럽트 기반 게임 클럭과 LCD·PWM을 연동한 임베디드 미니 게임 구현
 ---
 
-## 🧩 기술 스택
+## 🏃‍➡️ 기술 스택
 
 **언어**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
