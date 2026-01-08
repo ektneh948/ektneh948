@@ -17,7 +17,7 @@
 ---
 
 ### ⚖️ [오만과 편견](https://github.com/ektneh948/interview-feedback)
-&ensp; *실시간 멀티모달 분석과 LLM 피드백으로 면접자의 비언어·언어적 약점을 객관적으로 진단하는 AI 가상 면접 코치 시스템*
+&ensp; *NPU 기반 엣지 디바이스(Hailo-8) AI 가상 면접 코치 시스템*
 - **핵심 키워드:** FER2013 · 5-class 감정 인식 · MobileNetV3 Small · 경량 CNN · 데이터 불균형 · MixUp · Focal Loss · 엣지/가속기 배포
 - **핵심 기술:** MobileNetV3 Small 기반 2-Stage 학습과 TFLite 및 Hailo-8 양자화·배포를 고려한 경량 감정 인식 파이프라인 구현
 
