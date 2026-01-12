@@ -1,38 +1,45 @@
-# 안녕하세요, 김다현입니다.
+## ✨ 안녕하세요, 김다현입니다.
 
 ## 📂 주요 프로젝트
 
 ### 🧇 [WAFFLE-FI](https://github.com/ektneh948/waffle-fi)
-&ensp; *Reinforcement Learning + ROS2 기반 실내 Wi-Fi 커버리지 자동 분석 시스템*
+> **🏅 Intel Edge AI Academy 최종 프로젝트 경진대회 – 최우수상 수상작**  
+&ensp; *Reinforcement Learning + ROS2 기반 실내 Wi-Fi 커버리지 자동 분석 시스템*  
 - **핵심 키워드:**  RSSI 히트맵 · ESP32 Wi-Fi 스캔 · ROS2 · TurtleBot3(Waffle) · Qt GUI · 자율 탐색 로봇
 - **핵심 기술:** 자율 주행 로봇이 수집한 Wi-Fi RSSI와 위치 정보를 ROS2 노드로 융합하고, Qt GUI에서 히트맵으로 시각화하는 시스템
+---
+
+### ⚖️ [오만과 편견](https://github.com/ektneh948/interview-feedback)
+&ensp; *NPU 기반 엣지 디바이스(Hailo-8) AI 가상 면접 코치 시스템*  
+- **핵심 키워드:** Hailo-8(NPU), FER2013 · 5-class 감정 인식 · MobileNetV3 Small · 경량 CNN · 데이터 불균형 · MixUp · Focal Loss · 엣지/가속기 배포
+- **핵심 기술:** MobileNetV3 Small 기반 2-Stage 학습과 TFLite 및 Hailo-8 양자화·배포를 고려한 경량 감정 인식 파이프라인 구현
 
 ---
 
 ### 🕒 [OLED 시계 디스플레이](https://github.com/ektneh948/oled-ds1302)
-&ensp; *Linux Kernel Device Driver 기반 OLED 시계 디스플레이*
+&ensp; *Linux Kernel Device Driver 기반 OLED 시계 디스플레이* 
 - **핵심 키워드:** Raspberry Pi · Linux Kernel Device Driver · OLED(SSD1306) · I2C/SPI 통신 · RTC DS1302 · GPIO 인터럽트 · Rotary Encoder
 - **핵심 기술:** 커널 레벨에서 GPIO를 제어하고 User–Kernel 연계를 통해 RTC 시간 표시와 인터럽트 기반 입력을 처리하는 임베디드 디스플레이
 
 ---
 
-### ⚖️ [오만과 편견](https://github.com/ektneh948/interview-feedback)
-&ensp; *NPU 기반 엣지 디바이스(Hailo-8) AI 가상 면접 코치 시스템*
-- **핵심 키워드:** FER2013 · 5-class 감정 인식 · MobileNetV3 Small · 경량 CNN · 데이터 불균형 · MixUp · Focal Loss · 엣지/가속기 배포
-- **핵심 기술:** MobileNetV3 Small 기반 2-Stage 학습과 TFLite 및 Hailo-8 양자화·배포를 고려한 경량 감정 인식 파이프라인 구현
-
----
-
-### 🏭 [클린룸 모니터링](https://github.com/ektneh948/cleanroom-monitoring)
+### 🏭 [클린룸 모니터링](https://github.com/ektneh948/cleanroom-monitoring)  
 &ensp; *STM32 기반 센서 노드와 TCP/IP 서버를 활용한 실시간 환경 모니터링 & 제어 IoT 시스템*
 - **핵심 키워드:** STM32 센서 노드 · 미세먼지/온습도 측정 · TCP/IP 통신 · ESP8266 Wi-Fi · 다중 클라이언트 서버
 - **핵심 기술:** 센서 데이터를 수집하고 ESP8266 기반 TCP/IP 네트워크로 서버·다중 클라이언트와 연동하여 실시간 모니터링 및 원격 제어 구현
+
 ---
 
-### 👾 [Pecman 게임(with STM32)](https://github.com/ektneh948/stm32-minigame)
+### 🔍 [객체탐지를 활용한 표면 결함검사](https://github.com/ektneh948)
+&ensp; *JetsonNano와 YOLO 기반 금속 부품 표면 결함 검사 시스템 *
+- **핵심 키워드:** JetsonNano, YOLO5, GStreamer, CNN, DANN, Node.js, websocket
+- **핵심 기술:**  Gstreamer 파이프라인, 모니터링 웹서버 구현
+---
 
-- **핵심 키워드:** STM32F4, ADC + DMA, Joystick 입력, Timer Interrupt, I2C 16x2 LCD, CGRAM 커스텀 문자
-- **핵심 기술:**  ADC를 DMA로 연속 수집하여 입력 처리, 타이머 인터럽트 기반 게임 클럭과 LCD·PWM을 연동한 임베디드 미니 게임 구현
+### 🐘 [실시간 트윗 배치 파이프라인](https://github.com/ektneh948)
+&ensp; *트위터 실시간 스트리밍 데이터를 수집·저장·분석까지 연결하는 엔드투엔드(End-to-End) 모의 빅데이터 파이프라인*
+- **핵심 키워드:** Python, MongoDB, Hadoop, Hive, Docker, Twitter API  
+- **핵심 기술:**  실시간 트윗 스트리밍 수집, 분산 데이터 적재
 ---
 
 ## 🏃‍➡️ 기술 스택
