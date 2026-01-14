@@ -30,7 +30,7 @@
 
 ---
 
-### 🔍 [객체탐지를 활용한 표면 결함검사](https://github.com/ektneh948)
+### 🔍 [객체탐지를 활용한 표면 결함검사](https://github.com/ektneh948/metal-defect-detection)
 &ensp; *JetsonNano와 YOLO 기반 금속 부품 표면 결함 검사 시스템*
 - **핵심 키워드:** JetsonNano, YOLO5, GStreamer, CNN, DANN, Node.js, websocket
 - **핵심 기술:**  Gstreamer 파이프라인, 모니터링 웹서버 구현
