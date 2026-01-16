@@ -9,7 +9,7 @@
 - **핵심 기술:** 자율 주행 로봇이 수집한 Wi-Fi RSSI와 위치 정보를 ROS2 노드로 융합하고, Qt GUI에서 히트맵으로 시각화하는 시스템
 ---
 
-### ⚖️ [오만과 편견](https://github.com/ektneh948/interview-feedback)
+### 💼 [오만과 편견](https://github.com/ektneh948/interview-feedback)
 &ensp; *NPU 기반 엣지 디바이스(Hailo-8) AI 가상 면접 코치 시스템*  
 - **핵심 키워드:** Hailo-8(NPU) · FER2013 · 5-class 감정 인식 · MobileNetV3 Small · 경량 CNN · 데이터 불균형 · MixUp · Focal Loss · 엣지/가속기 배포
 - **핵심 기술:** MobileNetV3 Small 기반 2-Stage 학습과 TFLite 및 Hailo-8 양자화·배포를 고려한 경량 감정 인식 파이프라인 구현
@@ -36,7 +36,7 @@
 - **핵심 기술:**  Gstreamer 파이프라인, 모니터링 웹서버 구현
 ---
 
-### 🐘 [실시간 트윗 배치 파이프라인](https://github.com/ektneh948)
+### 🐘 [실시간 트윗 배치 파이프라인](https://github.com/ektneh948/hadoop-batch-pipeline)
 &ensp; *트위터 실시간 스트리밍 데이터를 수집·저장·분석까지 연결하는 엔드투엔드(End-to-End) 모의 빅데이터 파이프라인*
 - **핵심 키워드:** Python, MongoDB, Hadoop, Hive, Docker, Twitter API  
 - **핵심 기술:**  실시간 트윗 스트리밍 수집, 분산 데이터 적재
