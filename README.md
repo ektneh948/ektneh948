@@ -30,6 +30,12 @@
 
 ---
 
+### 👾 [Pecman 게임 (with.STM32)](https://github.com/ektneh948)
+- **핵심 키워드:** STM32F4, ADC + DMA, Joystick 입력, Timer Interrupt, I2C 16x2 LCD, CGRAM 커스텀 문자
+- **핵심 기술:** ADC를 DMA로 연속 수집하여 입력 처리, 타이머 인터럽트 기반 게임 클럭과 LCD·PWM을 연동한 임베디드 미니 게임 구현
+
+---
+
 ### 🔍 [객체탐지를 활용한 표면 결함검사](https://github.com/ektneh948/metal-defect-detection)
 &ensp; *JetsonNano와 YOLO 기반 금속 부품 표면 결함 검사 시스템*
 - **핵심 키워드:** JetsonNano, YOLO5, GStreamer, CNN, DANN, Node.js, websocket
