@@ -42,12 +42,6 @@
 - **핵심 기술:**  Gstreamer 파이프라인, 모니터링 웹서버 구현
 ---
 
-### 🐘 [실시간 트윗 배치 파이프라인](https://github.com/ektneh948/hadoop-batch-pipeline)
-&ensp; *트위터 실시간 스트리밍 데이터를 수집·저장·배치 처리·분석까지 한 번에 이어주는 모의 빅데이터 파이프라인*
-- **핵심 키워드:** Python, MongoDB, HDFS(Hadoop), Hive(ORC·파티셔닝), Presto, Docker, Twitter API v2, Embulk, Cron/Scheduler 
-- **핵심 기술:**  Twitter API 기반 실시간 트윗 수집 → MongoDB 적재 → Embulk 배치 추출 → HDFS 분산 저장 → Hive로 구조화 → Presto를 통한 대화형 분석 / 자동화(일일 스케줄링)
----
-
 ## 🏃‍➡️ 기술 스택
 
 **언어**  
